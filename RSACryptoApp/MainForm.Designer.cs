@@ -1,6 +1,4 @@
-﻿namespace RSACryptoApp;
-
-namespace RSACryptoApp
+﻿namespace RSACryptoApp
 {
     partial class MainForm
     {

@@ -1,0 +1,15 @@
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.AssemblyInfoInputs.cache
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.AssemblyInfo.cs
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.csproj.CoreCompileInputs.cache
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.sourcelink.json
+B:\git\security key\security-key-with-c-\RSACryptoApp\bin\Debug\net8.0-windows\RSACryptoApp.exe
+B:\git\security key\security-key-with-c-\RSACryptoApp\bin\Debug\net8.0-windows\RSACryptoApp.deps.json
+B:\git\security key\security-key-with-c-\RSACryptoApp\bin\Debug\net8.0-windows\RSACryptoApp.runtimeconfig.json
+B:\git\security key\security-key-with-c-\RSACryptoApp\bin\Debug\net8.0-windows\RSACryptoApp.dll
+B:\git\security key\security-key-with-c-\RSACryptoApp\bin\Debug\net8.0-windows\RSACryptoApp.pdb
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.dll
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\refint\RSACryptoApp.dll
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.pdb
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\RSACryptoApp.genruntimeconfig.cache
+B:\git\security key\security-key-with-c-\RSACryptoApp\obj\Debug\net8.0-windows\ref\RSACryptoApp.dll
